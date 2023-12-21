@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://pritamnagose7.github.io/bluebug/](https://pritamnagose7.github.io/bluebug/)
+- 👨‍💻 It's my Portfolio [https://pritamnagose7.github.io/bluebug/](https://pritamnagose7.github.io/bluebug/)
 
 - 💬 Ask me about **Java Full Stack**
 
