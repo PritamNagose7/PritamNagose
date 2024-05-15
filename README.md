@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966)
+
 <h1 align="center">Hi 👋, I'm Pritam Nagose</h1>
 <h3 align="center">Full Stack Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
